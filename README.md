@@ -66,4 +66,4 @@ Select coursework and personal engineering projects demonstrating applied mechan
 
 [![Portfolio](https://img.shields.io/badge/eric--walters.ca-000000?style=flat&logo=hugo&logoColor=white)](https://eric-walters.ca)
 [![Email](https://img.shields.io/badge/contact@eric--walters.ca-333333?style=flat&logo=maildotru&logoColor=white)](mailto:contact@eric-walters.ca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-g-w)
